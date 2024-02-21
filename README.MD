@@ -51,7 +51,7 @@ A: Absolutely. My approach is highly adaptable, focusing on modular design and s
 
 I am eager to bring my expertise in machine learning, data engineering, and cloud technologies to innovative teams looking to make a substantial impact. Let's explore how my background and your organization's goals can align to drive technological advancements.
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/keanshubham)
+- **LinkedIn**: [My Profile](https://www.linkedin.com/in/keanshubham)
 
 Thank you for considering my portfolio. I look forward to the opportunity to contribute to your team's success.
 
